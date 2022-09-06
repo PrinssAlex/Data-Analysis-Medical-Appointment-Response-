@@ -6,6 +6,8 @@
 **Description of Dataset:**
 This dataset collects information from over 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment and the associated characteristics of each patient.
 
+> *social media/project image credit: Imperial College London by Caroline Brogan, 2017* 
+
 ## Data Wrangling Overview
 
 Before exploring the data set, it was read into jupyter notebook as a dataframe using pandas *.read_csv()* method. After which, the dataframe was assessed for tidiness and quality issues. The result of the assessment showed that the column names and the *Handcap* column records had quality issues and needed modification. While duplicate records were dropped. Furthermore, the assessment confirmed that there were no missing records, outliers, or null values. 
