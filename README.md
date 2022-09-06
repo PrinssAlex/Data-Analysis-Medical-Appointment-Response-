@@ -2,6 +2,8 @@
 ## Reasons Behind Failed Medical Appointments ##
 ### [Case Study: Brazil]
 
+![project image](project_image.jpg)
+
 **Name of Dataset:** Medical Appointments No Shows
 **Description of Dataset:**
 This dataset collects information from over 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment and the associated characteristics of each patient.
