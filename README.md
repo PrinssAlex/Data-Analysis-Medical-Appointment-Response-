@@ -2,7 +2,7 @@
 ## Reasons Behind Failed Medical Appointments ##
 ### [Case Study: Brazil]
 
-![project image](project_image.jpg)
+![project image](image.jpg)
 
 **Name of Dataset:** Medical Appointments No Shows
 **Description of Dataset:**
