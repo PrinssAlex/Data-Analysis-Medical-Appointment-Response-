@@ -4,8 +4,8 @@
 
 ![project image](image.jpg)
 
-**Name of Dataset:** Medical Appointments No Shows
-**Description of Dataset:**
+**Name of Dataset:** Medical Appointments No Shows <br/>
+**Description of Dataset:** <br/>
 This dataset collects information from over 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment and the associated characteristics of each patient.
 
 > *social media/project image credit: Imperial College London by Caroline Brogan, 2017* 
